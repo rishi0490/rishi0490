@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, **I'm RISHI KUMAR SINGH</h1>**
 <h3 align="center">**A passionate DevOps Engineer from India</h3>**
 
-- ******🔭 I’m currently working on **Ongraph technologies ltd********
+- ******🔭 I’m currently working on **Leena AI********
 
 - 📫 ****How to reach me **rishikumar47788@gmail.com******
 
