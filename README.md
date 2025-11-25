@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, **I'm RISHI KUMAR SINGH</h1>**
-<h3 align="center">**A passionate DevOps Engineer from India</h3>**
+<h3 align="center">**A passionate Seasoned DevOps Engineer from India</h3>**
 
-- ******🔭 I’m currently working in **Leena AI********
+- ******🔭 I’m currently working in **IndiaBulls Security LTD********
 
 - 📫 ****How to reach me **rishikumar47788@gmail.com******
 
